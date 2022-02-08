@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adityablaze
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning school
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in school
 - 📫 How to reach me adityablaze.17@gmail.com
 
 <!---
