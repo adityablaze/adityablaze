@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adityablaze
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently in school
+- 🌱 I’m currently in College
+- 📖 I'm doing my bachelors in Computer Science.
 - 📫 How to reach me adityablaze.17@gmail.com
 
 <!---
