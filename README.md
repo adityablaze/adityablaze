@@ -15,7 +15,6 @@
 
 ### 📫 Connect with Me
 - 📧 Email: **adityablaze.17@gmail.com**  
-- 🌐 Portfolio (coming soon…)  
 - 💼 LinkedIn - https://www.linkedin.com/in/aditya-nayak-77086727a/
 
 ---
