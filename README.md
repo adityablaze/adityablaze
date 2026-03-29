@@ -7,7 +7,7 @@
 ### 🌟 About Me
 - 🔭 I love building **games and interactive experiences**.  
 - 🎓 Currently pursuing **B.Tech in Computer Science**.  
-- 🛠️ Always learning: **DSA, Unity, and full-stack dev basics**.  
+- 🛠️ Always learning: **DSA, Unity, and full-stack dev**.  
 - 🧩 Passionate about solving problems with **creativity + tech**.  
 - ✨ Inspired to make games that **tell stories, spark curiosity, and create memorable experiences**.  
 
