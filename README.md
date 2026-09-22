@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am a curious Computer Science undergraduate with a strong drive to solve complex problems and continuously learn[cite: 1]. While my public repositories heavily showcase my hands-on experience with interactive 3D and game engines, my interests go beyond just gameplay programming. I enjoy exploring 3D systems architecture, game backend development, and bridging AI with spatial computing. As a former Research Intern at IIT Guwahati, I love diving into challenging technical problems and building systems that connect different technologies.
+I am a curious Computer Science undergraduate with a strong drive to solve complex problems and continuously learn. While my public repositories heavily showcase my hands-on experience with interactive 3D and game engines, my interests go beyond just gameplay programming. I enjoy exploring 3D systems architecture, game backend development, and bridging AI with spatial computing. As a former Research Intern at IIT Guwahati, I love diving into challenging technical problems and building systems that connect different technologies.
 
 - 🎮 **Real-Time 3D & XR:** Designing responsive VR/AR interactions, custom gameplay controllers, and shader mechanics in Unity (URP/HDRP).
 - 🧠 **Spatial & Agentic AI:** Connecting live computer vision feeds (YOLO, homography projection) to dynamic 3D digital twins and multi-agent reasoning workflows.
