@@ -63,18 +63,9 @@ I am a curious Computer Science undergraduate with a strong drive to solve compl
 | **2D Responsive Movement Controller** | `Unity` `C#` | Standalone kinematic 2D platformer movement controller implementing coyote time, jump buffering, variable jump heights, and velocity damping. | [Repo](https://github.com/adityablaze/2D_movement_unity) |
 | **3D Situational Awareness Digital Twin** | `YOLO` `Flask` `Unity` `VLM` | End-to-end perception pipeline mapping 2D video feeds into 3D world coordinates via homography, streaming state payloads to a live Unity digital twin. | *Research (IIT Guwahati)* |
 
----
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityablaze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityablaze&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Streak" />
-</p>
-
----
 
 ### 💬 Get in Touch
 
-- 💼 Connect or message me on **[LinkedIn](https://www.linkedin.com/in/aditya-nayak-77086727a/)**[cite: 1]
-- ✉️ Drop me an email at **[adityakumarnayak.13@gmail.com](mailto:adityakumarnayak.13@gmail.com)**[cite: 1]
+- 💼 Connect or message me on **[LinkedIn](https://www.linkedin.com/in/aditya-nayak-77086727a/)**
+- ✉️ Drop me an email at **[adityakumarnayak.13@gmail.com](mailto:adityakumarnayak.13@gmail.com)**
