@@ -1,14 +1,14 @@
 # Hi there, I'm Aditya Kumar Nayak 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-nayak-77086727a/)
-[![Portfolio](https://img.shields.io/badge/Canva_Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://adityanayakportfolio.my.canva.site/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakumarnayak.13@gmail.com)
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science undergraduate** passionate about **Immersive Computing, Game Development, and Applied AI**. Most of my public work centers on building interactive 3D/XR environments, gameplay mechanics, and physics simulations, but my technical inclinations extend across the entire stack:
+I am a curious and adaptable Computer Science undergraduate with a strong drive to learn new technologies and tackle complex problems[cite: 1]. While my public repositories heavily showcase my hands-on development experience with interactive 3D systems and game engines, my true passion lies in full-stack system architecture and engineering modular software systems[cite: 1]. I enjoy owning challenging technical problems[cite: 1]—whether that means architecting robust backend pipelines[cite: 1], bridging AI/Computer Vision with web-based workflows[cite: 1], or building scalable LLM workflows[cite: 1].
+
 - 🎮 **Real-Time 3D & XR:** Designing responsive VR/AR interactions, custom gameplay controllers, and shader mechanics in Unity (URP/HDRP).
 - 🧠 **Spatial & Agentic AI:** Connecting live computer vision feeds (YOLO, homography projection) to dynamic 3D digital twins and multi-agent reasoning workflows.
 - ⚙️ **Systems & Backend:** Architecting modular REST APIs (Flask, Node.js/Express) and deterministic state synchronization pipelines.
@@ -76,6 +76,5 @@ I am a **Computer Science undergraduate** passionate about **Immersive Computing
 
 ### 💬 Get in Touch
 
-- 🌐 Check out my visual demos and project gallery on my **[Canva Portfolio](https://adityanayakportfolio.my.canva.site/)**[cite: 2]
 - 💼 Connect or message me on **[LinkedIn](https://www.linkedin.com/in/aditya-nayak-77086727a/)**[cite: 1]
 - ✉️ Drop me an email at **[adityakumarnayak.13@gmail.com](mailto:adityakumarnayak.13@gmail.com)**[cite: 1]
